@@ -13,10 +13,6 @@ This weather application leverages the OpenWeatherMap API to provide users with 
 - **City Search:** Provides the option to search for weather information in a specific city.
 - **User-Friendly Interface:** Displays essential weather details, including temperature, description, wind speed, humidity, and cloudiness.
 
-## Demo
-
-Include screenshots or GIFs of your application in action.
-
 ## Technologies Used
 
 - HTML
